@@ -1,0 +1,102 @@
+*{
+    font-family: 'VT323', monospace;
+    scroll-behavior: smooth;
+}
+body{
+    background-color: #18181A;
+    color: #18181A;
+    
+}
+
+/* navbar start */
+.nav{
+list-style: none;
+}
+.nb{
+    display: flex;
+    float: right;
+}
+a{
+    text-decoration: none;
+    color: #18181A;
+}
+.nli{
+    display: inline-block;
+    font-size: 35px;
+    margin: 15px;
+}
+
+
+
+/* navbar end */
+/* landing-page-css start */
+.land{
+    background-color: #D9D9D9;
+    border-radius: 35px;
+}
+.lhead{
+    font-size: 75px; 
+}
+.lintro{
+    padding-left: 50px;
+    padding-bottom: 40px;
+}
+/* landing-page-css ending */
+
+/* about page start */
+.ahead{
+    font-size: 75px;
+}
+.abtcont{
+    padding-left: 50px;
+}
+.acont{
+    width: 900px;
+    font-size: 30px;
+    padding-bottom: 40px;
+}
+.abt{
+    background-color: #D9D9D9;
+    color: #18181A;
+    border-radius: 35px;
+}
+/* about page end */
+
+/* project-page start */
+.pro{
+    background-color: #D9D9D9;
+    color: #18181A;
+    border-radius: 35px;
+}
+.phead{
+    font-size: 75px;
+}
+.pcont{
+    width: 900px;
+    font-size: 30px;
+    padding-bottom: 40px;
+}
+.procont{
+    padding-left: 50px;
+    padding-bottom: 40px; 
+}
+/* project-page end */
+
+/* contact start */
+.cont{
+    background-color: #D9D9D9;
+    color: #18181A;
+    border-radius: 35px;
+}
+.chead{
+    font-size: 75px; 
+}
+.concont{
+    padding-left: 50px;
+    padding-bottom: 40px; 
+}
+i{
+    font-size: 55px;
+    padding: 20px;
+}
+/* contact end */
